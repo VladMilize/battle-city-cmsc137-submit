@@ -1,0 +1,8 @@
+*.class
+bin/
+out/
+.project
+.classpath
+.settings/
+.vscode/
+CLAUDE.md
